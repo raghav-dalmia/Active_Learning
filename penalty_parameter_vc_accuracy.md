@@ -12,5 +12,7 @@
 ### Accuracy measured through training set
 --------
 ![7](https://github.com/raghav-dalmia/Active_Learning/blob/master/Results/Screenshot%20from%202019-06-30%2017-59-27.png)
+#### Result
+**Mean :**
 --------
 ![8](https://github.com/raghav-dalmia/Active_Learning/blob/master/Results/Screenshot%20from%202019-06-27%2023-30-31.png)
